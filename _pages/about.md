@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archive
+title: Mathematics
 permalink: /arch/
 ---
 
