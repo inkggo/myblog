@@ -40,6 +40,22 @@
   
 
   
+      ,"page3": {
+          "title": "ML",
+          "content": "",
+          "url": "https://inkggo.github.io/myblog/ml/",
+          "relUrl": "/ml/",
+          "date": ""
+      }
+      
+  
+
+  
+  
+
+  
+
+  
   
 
   
@@ -48,18 +64,13 @@
   
 
   
-
-  
   
 
   
   
 
   
-  
-
-  
-      ,"page10": {
+      ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://inkggo.github.io/myblog/robots.txt",
