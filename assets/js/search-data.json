@@ -59,6 +59,17 @@
   
 
   
+      ,"page7": {
+          "title": "Statistics",
+          "content": "",
+          "url": "https://inkggo.github.io/myblog/stat/",
+          "relUrl": "/stat/",
+          "date": ""
+      }
+      
+  
+
+  
 
   
   
@@ -70,7 +81,7 @@
   
 
   
-      ,"page11": {
+      ,"page12": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://inkggo.github.io/myblog/robots.txt",
